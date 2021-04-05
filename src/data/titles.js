@@ -4,8 +4,6 @@ const Titles = [
     {
         id:1,
         Title: 'Amud: 1',
-
-    
     }
 
 
