@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Icon = () => {
+const Amud = () => {
  retrun (
   <div>
    
@@ -13,4 +13,4 @@ const Icon = () => {
   
   
 }
-export default Icon
+export default Amud
