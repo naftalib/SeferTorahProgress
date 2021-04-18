@@ -37,7 +37,5 @@ const Titles = [
         id:9,
         Title: 'Amud: 9',
     }
-
-
 ]
 export default Titles
