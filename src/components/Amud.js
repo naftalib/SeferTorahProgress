@@ -1,11 +1,10 @@
 import React from 'react'
 
-const Amud = () => {
+const Amud = (props) => {
  retrun (
-  <div>
-   
-   
-   
+  <div className='tile'>
+    <div className='amudim'></div>
+    <h2>{props.tile.title}</h2>
   </div>
  
  

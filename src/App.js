@@ -6,7 +6,7 @@ import Amud from '../components/Amud'
 class App extends Component {
 
   state = {
-    yeria: Tiles
+    yeria: []
   }
 
   render(){
@@ -15,9 +15,10 @@ class App extends Component {
       <h1>Sefer Torah Progress</h1>
       <div className='container'>
         <div>
-          {this.state.yeria.map(tile => 
+          {this.state.Tiles.map(tile => 
           <Amud 
           key={tile.id}
+          tile={tile}
           title={tile.title}
           />)}
         </div>

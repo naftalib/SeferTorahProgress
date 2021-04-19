@@ -3,39 +3,48 @@ import React from 'react'
 const Titles = [
     {
         id:1,
-        Title: 'Amud: 1',
+        title: 'Amud: 1',
+        status: 'complete',
     },
      {
         id:2,
-        Title: 'Amud: 2',
+        title: 'Amud: 2',
+        status: 'complete',
     },
      {
         id:3,
-        Title: 'Amud: 3',
+        title: 'Amud: 3',
+        status: 'pending',
     },
      {
         id:4,
-        Title: 'Amud: 4',
+        title: 'Amud: 4',
+        status: 'pending',
     },
      {
         id:5,
-        Title: 'Amud: 5',
+        title: 'Amud: 5',
+        status: 'pending',
     },
      {
         id:6,
-        Title: 'Amud: 6',
+        title: 'Amud: 6',
+        status: 'pending',
     },
      {
         id:7,
-        Title: 'Amud: 7',
+        title: 'Amud: 7',
+        status: 'pending',
     },
      {
         id:8,
-        Title: 'Amud: 8',
+        title: 'Amud: 8',
+        status: 'pending',
     },
      {
         id:9,
-        Title: 'Amud: 9',
+        title: 'Amud: 9',
+        status: 'pending',
     }
 ]
 export default Titles
