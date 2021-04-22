@@ -25,6 +25,6 @@ body {
 }
 .amudim {
   width: 200px;
-  height: 600px;
-  border: 1 white;
+  height: 400px;
+  background-color: white;
 }
