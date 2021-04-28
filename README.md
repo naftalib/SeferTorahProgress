@@ -1,3 +1,3 @@
 # Progress Report App
 
-This App was devalopped for a client to track and disply the development of a Torah scroll being written in a foreign country.
+This App was developped for a client to track and disply the development of a Sefer Torah being written in another country.
