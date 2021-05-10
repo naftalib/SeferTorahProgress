@@ -43,27 +43,27 @@ const Titles = [
     },
      {
         id:9,
-        title: 'Amud: 9',
+        title: 'Amud: 10',
         status: 'pending',
     },
     {
        id:10,
-       title: 'Amud: 9',
+       title: 'Amud: 11',
        status: 'pending',
    },
    {
       id:11,
-      title: 'Amud: 9',
+      title: 'Amud: 12',
       status: 'pending',
   },
    {
       id:12,
-      title: 'Amud: 9',
+      title: 'Amud: 13',
       status: 'pending',
   },
    {
       id:13,
-      title: 'Amud: 9',
+      title: 'Amud: 14',
       status: 'pending',
   }
 ]
