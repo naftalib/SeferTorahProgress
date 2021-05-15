@@ -28,3 +28,7 @@ body {
   height: 400px;
   background-color: white;
 }
+.amudTitle {
+  white-space: nowrap;
+  display: inline-block;
+}
