@@ -70,6 +70,16 @@ const Titles = [
      id:14,
      title: 'Amud: 14',
      status: 'pending',
+ },
+  {
+     id:15,
+     title: 'Amud: 15',
+     status: 'pending',
+ },
+  {
+     id:16,
+     title: 'Amud: 16',
+     status: 'pending',
  }
 ]
 export default Titles
