@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Titles = [
+const Tiles = [
     {
         id:1,
         title: 'Amud: 1',
@@ -82,4 +82,4 @@ const Titles = [
      status: 'pending',
  }
 ]
-export default Titles
+export default Tiles
