@@ -80,6 +80,16 @@ const Tiles = [
      id:16,
      title: 'Amud: 16',
      status: 'pending',
- }
+ },
+ {
+    id:17,
+    title: 'Amud: 17',
+    status: 'pending',
+},
+{
+   id:18,
+   title: 'Amud: 18',
+   status: 'pending',
+}
 ]
 export default Tiles
