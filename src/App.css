@@ -29,6 +29,14 @@ body {
   background-color: white;
 }
 .amudTitle {
-  white-space: nowrap;
-  display: inline-block;
+  letter-spacing: 0.1em;
+  line-height: 0.3em;
+}
+#div-line {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #7a7c72;
+  margin: 0;
+  padding: 0;
 }

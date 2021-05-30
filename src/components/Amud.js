@@ -6,9 +6,10 @@ const Amud = (props)=>{
     
    <div>
       <div className='amudim'></div>
-      <div>
-        <h2>{props.tile.title}</h2>||
-        <p>status</p><input type="checkbox" /> 
+      <div className='amudTitle'>
+        <h2>{props.tile.title}</h2>
+        <hr id='div-line'/>
+        <h3>status: {props.tile.status}</h3> 
       </div>
         
   </div>

@@ -19,6 +19,7 @@ class App extends Component {
           <Amud 
           key={tile.id}
           tile={tile}
+          status={status}
           />)}
         </div>
         
