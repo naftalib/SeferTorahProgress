@@ -25,10 +25,11 @@ body {
 }
 .amudim {
   width: 200px;
-  height: 400px;
-  background-color: white;
+  height: 350px;
+  background-color: whitesmoke;
 }
 .amudTitle {
+  max-width: 200px;
   letter-spacing: 0.1em;
   line-height: 0.3em;
 }
