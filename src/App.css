@@ -27,13 +27,17 @@ body {
   width: 200px;
   height: 350px;
   background-color: whitesmoke;
+  transition: transform 0.2s;
+}
+.amudim:hover {
+  transform: scale(1.05);
 }
 .amudTitle {
   max-width: 200px;
   letter-spacing: 0.1em;
   line-height: 0.3em;
 }
-#div-line {
+.div-line {
   display: block;
   height: 1px;
   border: 0;

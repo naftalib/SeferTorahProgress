@@ -17,7 +17,7 @@ const Amud = (props)=>{
       ></div>
       <div className='amudTitle'>
         <h2>{props.tile.title}</h2>
-        <hr id='div-line'/>
+        <hr className='div-line'/>
         <h3>status: {props.tile.complete ? "complete":"pending"}</h3> 
       </div>
         
