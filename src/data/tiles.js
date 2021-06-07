@@ -100,6 +100,106 @@ const Tiles = [
    id:20,
    title: 'Amud: 20',
    complete: false
+},
+{
+   id:21,
+   title: 'Amud: 21',
+   complete: false
+},
+{
+   id:22,
+   title: 'Amud: 22',
+   complete: false
+},
+{
+   id:23,
+   title: 'Amud: 23',
+   complete: false
+},
+{
+   id:24,
+   title: 'Amud: 24',
+   complete: false
+},
+{
+   id:25,
+   title: 'Amud: 25',
+   complete: false
+},
+{
+   id:26,
+   title: 'Amud: 26',
+   complete: false
+},
+{
+   id:27,
+   title: 'Amud: 27',
+   complete: false
+},
+{
+   id:28,
+   title: 'Amud: 28',
+   complete: false
+},
+{
+   id:29,
+   title: 'Amud: 29',
+   complete: false
+},
+{
+  id:30,
+  title: 'Amud: 30',
+  complete: false
+},
+{
+ id:31,
+ title: 'Amud: 31',
+ complete: false
+},
+{
+ id:32,
+ title: 'Amud: 32',
+ complete: false
+},
+{
+ id:33,
+ title: 'Amud: 33',
+ complete: false
+},
+{
+id:34,
+title: 'Amud: 34',
+complete: false
+},
+{
+id:35,
+title: 'Amud: 35',
+complete: false
+},
+{
+id:36,
+title: 'Amud: 36',
+complete: false
+},
+{
+id:37,
+title: 'Amud: 37',
+complete: false
+},
+{
+id:38,
+title: 'Amud: 38',
+complete: false
+},
+{
+id:39,
+title: 'Amud: 39',
+complete: false
+},
+{
+id:40,
+title: 'Amud: 40',
+complete: false
 }
 ]
 export default Tiles

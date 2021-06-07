@@ -1,4 +1,5 @@
 import React from 'react'
+import img from '../data/imgs/img.png'
 
 const Amud = (props)=>{
 
@@ -12,9 +13,13 @@ const Amud = (props)=>{
   return (
 
    <div>
-      <div className='amudim'
+      {/* <div className='amudim'
       style={!props.tile.complete ? amudPending: null}
-      ></div>
+      ></div> */}
+      <img src={img} alt="amud" 
+      className='amudim'
+      style={!props.tile.complete ? amudPending: null}
+      />
       <div className='amudTitle'>
         <h2>{props.tile.title}</h2>
         <hr className='div-line'/>
