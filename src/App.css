@@ -14,6 +14,23 @@ body {
   overflow: hidden;
   padding: 0 2rem;
 }
+.header-container {
+  text-align: center;
+}
+.header-container h1 {
+  padding-bottom: 0.1rem;
+}
+.div-line {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #7a7c72;
+  margin: 0;
+  padding: 0;
+}
+.div-line-small {
+  max-width: 300px;
+}
 
 .grid-4 {
   display: grid;
@@ -25,8 +42,8 @@ body {
 }
 .amudim {
   width: 200px;
-  height: 350px;
-  background-color: whitesmoke;
+  /* height: 350px;
+  background-color: whitesmoke; */
   transition: transform 0.2s;
 }
 .amudim:hover {
@@ -36,12 +53,4 @@ body {
   max-width: 200px;
   letter-spacing: 0.1em;
   line-height: 0.3em;
-}
-.div-line {
-  display: block;
-  height: 1px;
-  border: 0;
-  border-top: 1px solid #7a7c72;
-  margin: 0;
-  padding: 0;
 }
