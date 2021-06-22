@@ -19,7 +19,7 @@ const Tiles = [
      {
         id:4,
         title: 'Amud: 4',
-        complete: false
+        complete: true
     },
      {
         id:5,

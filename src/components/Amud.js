@@ -2,23 +2,13 @@ import React from 'react'
 import img from '../data/imgs/img.png'
 
 const Amud = (props)=>{
-
-  // const amudComplete = {
-  //   backgroundColor: 'white',
-  // }
-  const amudPending = {
-    opacity: '0.5'
-  }
   
   return (
 
    <div>
-      {/* <div className='amudim'
-      style={!props.tile.complete ? amudPending: null}
-      ></div> */}
       <img src={img} alt="amud" 
-      className='amudim'
-      style={!props.tile.complete ? amudPending: null}
+      className={!props.tile.complete ? 'amud':'amud scale'}
+      style={props.tile.complete ? {opacity: '1'}: {opacity: '0.5'}}
       />
       <div className='amudTitle'>
         <h2>{props.tile.title}</h2>

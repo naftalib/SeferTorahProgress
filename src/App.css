@@ -40,13 +40,13 @@ body {
 .tile {
   text-align: center;
 }
-.amudim {
+.amud {
   width: 200px;
-  /* height: 350px;
-  background-color: whitesmoke; */
+}
+.scale {
   transition: transform 0.2s;
 }
-.amudim:hover {
+.scale:hover {
   transform: scale(1.05);
 }
 .amudTitle {
