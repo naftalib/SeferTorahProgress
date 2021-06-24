@@ -210,6 +210,16 @@ complete: false
 id:42,
 title: 'Amud: 42',
 complete: false
+},
+{
+id:43,
+title: 'Amud: 43',
+complete: false
+},
+{
+id:44,
+title: 'Amud: 44',
+complete: false
 }
 ]
 export default Tiles
