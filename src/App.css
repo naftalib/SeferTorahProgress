@@ -35,7 +35,14 @@ body {
 .grid-4 {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-gap: 0.2rem;
+  gap: 10px;
+}
+.tileCard {
+  background-color: blueviolet;
+  text-align: center;
+}
+.innerCard {
+  text-align: center;
 }
 .tile {
   text-align: center;
