@@ -6,4 +6,4 @@ I created a data file constaining an array of objects. Each object is designated
 
 I created a generic display card component which is used to represent each column of a Torah scroll. The display card pulls data about the status of the column from the data array and displays the following points of info; 
 
-Using the .map function I have all the amudim being displayed on the page. After each one is completed they are updated in the data file. This way the buyer can see where the project is holding.
+Using the .map function I have all the amudim being displayed on the page. After each one is completed they are updated in the data file. This way the buyer ges a visual representation of where the project is holding.
